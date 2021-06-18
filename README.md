@@ -3,7 +3,7 @@
 This application gives you to add players and display them on a table view. App is created programmatically as well as using storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.3
